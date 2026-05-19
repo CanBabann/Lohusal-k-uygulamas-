@@ -1,0 +1,56 @@
+🌸 LOHUSALIK DÖNEMİ ANONİM YARDIMLAŞMA VE DESTEK PLATFORMU 🌸
+============================================================
+Final Ödeviniz için Hazırlanmış Masaüstü Uygulaması Kurulum Rehberi
+
+Visual Studio Community ortamında bu projeyi 2 dakika içinde sorunsuz çalıştırmak için aşağıdaki adımları sırasıyla uygulayabilirsiniz:
+
+ADIM 1: Yeni Proje Oluşturma
+----------------------------
+1. Visual Studio Community programını açın.
+2. "Yeni proje oluştur" (Create a new project) seçeneğine tıklayın.
+3. Arama çubuğuna "Windows Forms App" yazın.
+4. Dil olarak C# seçildiğinden emin olun ve listeden "Windows Forms App (.NET Framework)" şablonunu seçip "İleri" tuşuna basın.
+5. Proje Adı (Project name) kısmına birebir "LohusaDestekApp" yazın. 
+   (NOT: Eğer başka bir isim verirseniz, kodların en üstündeki `namespace LohusaDestekApp` yazan yerleri kendi proje isminizle değiştirmeniz gerekir. Hazır hazırladığımız dosyaları doğrudan yapıştırabilmek için ismi "LohusaDestekApp" yapmanız en pratiktir.)
+6. .NET Framework sürümünü varsayılan olarak (örn. .NET Framework 4.7.2 veya 4.8) bırakıp "Oluştur" (Create) butonuna tıklayın.
+
+ADIM 2: Dosyaları Kopyalayıp Yapıştırma
+--------------------------------------
+Bu klasörde sizin için 3 ana C# dosyası oluşturduk. Bu dosyaların içeriğini Visual Studio'daki dosyalarla değiştirmeniz yeterlidir:
+
+1. Form1.cs:
+   - Visual Studio sağ taraftaki "Solution Explorer" panelinde `Form1.cs` dosyasına çift tıklamayın (tasarım ekranı açılır).
+   - Dosyaya sağ tıklayıp "View Code" (Kodu Görüntüle) deyin.
+   - Bu klasördeki `Form1.cs` içeriğinin tamamını kopyalayın ve Visual Studio'daki kod ekranındaki her şeyi silip yerine yapıştırın.
+
+2. Form1.Designer.cs:
+   - Solution Explorer panelinde `Form1.cs` dosyasının solundaki küçük oka tıklayarak altını açın.
+   - Orada göreceğiniz `Form1.Designer.cs` dosyasına çift tıklayarak kod ekranını açın.
+   - Bu klasördeki `Form1.Designer.cs` içeriğinin tamamını kopyalayın, Visual Studio'daki tüm kodları silip yerine yapıştırın.
+
+3. Program.cs:
+   - Solution Explorer'da en altta bulunan `Program.cs` dosyasına çift tıklayın.
+   - Bu klasördeki `Program.cs` içeriğinin tamamını kopyalayın, Visual Studio'daki tüm kodları silip yerine yapıştırın.
+
+ADIM 3: Projeyi Çalıştırma (F5)
+-------------------------------
+- Her şeyi yapıştırdıktan sonra üst menüden yeşil renkli "Start" (Başlat) butonuna tıklayın veya klavyenizden "F5" tuşuna basın.
+- Uygulama hatasız olarak derlenecek ve ekranınızda açılacaktır!
+
+============================================================
+💡 UYGULAMA HAKKINDA ÖNEMLİ BİLGİLER VE ZENGİN HİLELER (ÖDEV İÇİN):
+============================================================
+
+1. HAZIR VERİLER (SEED DATA):
+   Uygulamayı ilk kez başlattığınızda ekranın bomboş kalmaması ve hocaya sunum yaparken dolu görünmesi için kodun içerisine hazır gerçekçi veriler yerleştirilmiştir. Açılışta 3 adet lohusa anne rumuzu, bu annelerin paylaştığı derin ve duygu yüklü 3 adet post ve bunların altında yardımlaşan diğer annelerin yorumları hazır yüklenecektir. Bu sayede sunumunuz mükemmel görünecektir.
+
+2. ANONİM GİRİŞ VE KAYIT:
+   Sadece bir "Rumuz" ve "Şifre" yazarak kayıt olabilirsiniz. Tamamen anonimdir. Kayıt olduktan sonra aynı bilgilerle hemen giriş yapabilirsiniz.
+
+3. VERİ SAKLAMA (XML VERİTABANI):
+   Uygulama SQL Server gibi dış kurulumlar gerektirmeden, çalıştığı klasörün içinde (projenizin debug klasöründe) "veriler.xml" isimli bir dosya oluşturur. Eklediğiniz tüm yeni kullanıcılar, postlar ve yorumlar anında bu dosyaya yazılır. Uygulamayı kapatıp açtığınızda yazdıklarınızın hiçbirinin kaybolmadığını göreceksiniz.
+
+4. PREMIUM GÖRSEL TASARIM (OWNER-DRAW FEED):
+   Normal Windows Forms ListBox'ları son derece eski ve çirkin görünür. Sizin için C#'ın grafik çizim kütüphanelerini kullanarak özel bir "Owner Draw" listbox yapısı kurduk. Gönderiler ve yorumlar tıpkı modern bir mobil uygulama veya web sitesindeki gibi "Kart Tasarımı", kategori bazlı "Renkli Kapsül Etiketler" (Psikolojik Destek için mor, Bebek Bakımı için mavi, Beslenme için yeşil) ve estetik ikonlarla çizilmektedir. Hocanız bu tasarıma kesinlikle bayılacaktır!
+
+Zaman kısıtınızda başarılar dileriz, ödevinizden 100 almanız dileğiyle! 🌸

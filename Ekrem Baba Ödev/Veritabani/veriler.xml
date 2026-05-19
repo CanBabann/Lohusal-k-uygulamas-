@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<Database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Users>
+    <User>
+      <Nickname>DeneyimliAnne</Nickname>
+      <Password>123456</Password>
+    </User>
+    <User>
+      <Nickname>UykusuzBuket</Nickname>
+      <Password>123456</Password>
+    </User>
+    <User>
+      <Nickname>YeniAnneEzgi</Nickname>
+      <Password>123456</Password>
+    </User>
+    <User>
+      <Nickname>Can</Nickname>
+      <Password>12345</Password>
+    </User>
+    <User>
+      <Nickname>Cann</Nickname>
+      <Password>Can123</Password>
+    </User>
+  </Users>
+  <Posts>
+    <Post>
+      <Id>d4b5ef08-60f3-4f20-9c5a-153e2afbcb93</Id>
+      <Nickname>YeniAnneEzgi</Nickname>
+      <Content>Lohusalığın 2. haftasındayım. Bebeğimi çok sevmeme rağmen içimde sürekli anlamsız bir korku ve ağlama hissi var. Eşime de yansıtmamaya çalışıyorum ama çok zorlanıyorum. Benimle aynı şeyleri yaşayan var mı?</Content>
+      <Category>Psikolojik Destek</Category>
+      <CreatedAt>2026-05-19T23:27:57.3395673+03:00</CreatedAt>
+      <Comments>
+        <Comment>
+          <Nickname>DeneyimliAnne</Nickname>
+          <Content>Çok normal canım benim, hormon dalgalanması yaşıyorsun. 40'ın çıkana kadar kendine izin ver, bol bol uyu ve ağlamaktan çekinme. Yalnız değilsin. ❤️</Content>
+          <CreatedAt>2026-05-19T23:27:57.3395673+03:00</CreatedAt>
+        </Comment>
+        <Comment>
+          <Nickname>UykusuzBuket</Nickname>
+          <Content>Birebir aynı durumdayım Ezgi Hanım. Akşam olunca özellikle üstüme duvarlar geliyor gibi oluyor. Sadece bunun geçici bir süreç olduğunu unutmayın, birbirimize destek olacağız.</Content>
+          <CreatedAt>2026-05-19T23:27:57.3395673+03:00</CreatedAt>
+        </Comment>
+      </Comments>
+      <LikeCount>12</LikeCount>
+      <ReportedBy />
+    </Post>
+    <Post>
+      <Id>aee84ce5-fcff-40b3-be34-eeeb95a24837</Id>
+      <Nickname>UykusuzBuket</Nickname>
+      <Content>Bebeğimin gaz sancısı yüzünden 3 gündür kesintisiz uyku uyumadık. Hangi damlayı veya masajı önerirsiniz? Kiraz çekirdeği kemeri aldık ama tam çözemedik.</Content>
+      <Category>Bebek Bakımı</Category>
+      <CreatedAt>2026-05-19T23:27:57.3395673+03:00</CreatedAt>
+      <Comments>
+        <Comment>
+          <Nickname>DeneyimliAnne</Nickname>
+          <Content>Kiraz çekirdeğini fırında çok hafif ısıtıp zıbın üzerinden koyun. Ayaklarına da ılık yağ ile masaj yapıp karnına doğru bacaklarını ittirin (bisiklet hareketi). Çok rahatlatır!</Content>
+          <CreatedAt>2026-05-19T23:27:57.3395673+03:00</CreatedAt>
+        </Comment>
+      </Comments>
+      <LikeCount>8</LikeCount>
+      <ReportedBy />
+    </Post>
+    <Post>
+      <Id>66b75d69-e058-4baa-ba3b-de17d2f45a8f</Id>
+      <Nickname>DeneyimliAnne</Nickname>
+      <Content>Sütümü artırmak için bol su içmek dışında gerçekten işe yarayan besinler nelerdir? Malt içeceği öneren var ama emin olamadım.</Content>
+      <Category>Beslenme &amp; Sağlık</Category>
+      <CreatedAt>2026-05-19T23:27:57.3395673+03:00</CreatedAt>
+      <Comments>
+        <Comment>
+          <Nickname>YeniAnneEzgi</Nickname>
+          <Content>Bana doktorum yulaf ezmesi ve dereotu önermişti, ben her gün tüketiyorum ve çok faydasını gördüm. Bir de tabii ki en büyük formül stresten uzak kalıp dinlenebilmek.</Content>
+          <CreatedAt>2026-05-19T23:27:57.3395673+03:00</CreatedAt>
+        </Comment>
+      </Comments>
+      <LikeCount>15</LikeCount>
+      <ReportedBy />
+    </Post>
+    <Post>
+      <Id>06be73f8-7c67-41ea-842a-10ee481c9a67</Id>
+      <Nickname>Cann</Nickname>
+      <Content>cocumu nasıl iyi büyütürüm</Content>
+      <Category>Psikolojik Destek</Category>
+      <CreatedAt>2026-05-19T23:50:28.6700135+03:00</CreatedAt>
+      <Comments>
+        <Comment>
+          <Nickname>mustafa</Nickname>
+          <Content>bilmiyorum</Content>
+          <CreatedAt>2026-05-19T23:50:47.7545057+03:00</CreatedAt>
+        </Comment>
+        <Comment>
+          <Nickname>mustafa</Nickname>
+          <Content>iki aynı wifi ağında çalışıyor.</Content>
+          <CreatedAt>2026-05-19T23:51:07.441574+03:00</CreatedAt>
+        </Comment>
+      </Comments>
+      <LikeCount>0</LikeCount>
+      <ReportedBy />
+    </Post>
+  </Posts>
+  <Moods>
+    <MoodEntry>
+      <Nickname>DeneyimliAnne</Nickname>
+      <MoodName>😊</MoodName>
+      <MoodDescription>Mutlu ve Huzurlu</MoodDescription>
+      <CreatedAt>2026-05-19T23:27:57.3395673+03:00</CreatedAt>
+    </MoodEntry>
+    <MoodEntry>
+      <Nickname>YeniAnneEzgi</Nickname>
+      <MoodName>😴</MoodName>
+      <MoodDescription>Aşırı Yorgun</MoodDescription>
+      <CreatedAt>2026-05-19T23:27:57.3395673+03:00</CreatedAt>
+    </MoodEntry>
+    <MoodEntry>
+      <Nickname>UykusuzBuket</Nickname>
+      <MoodName>😟</MoodName>
+      <MoodDescription>Kaygılı / Endişeli</MoodDescription>
+      <CreatedAt>2026-05-19T23:27:57.3395673+03:00</CreatedAt>
+    </MoodEntry>
+  </Moods>
+  <CustomPeers />
+</Database>

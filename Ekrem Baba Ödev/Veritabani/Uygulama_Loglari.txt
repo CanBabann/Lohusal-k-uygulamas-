@@ -1,0 +1,32 @@
+[19.05.2026 23:27:57] [SİSTEM] Lohusalık Anonim Yardımlaşma Platformu başarıyla başlatıldı.
+[19.05.2026 23:27:57] [SİSTEM] Yerel Wi-Fi/Ağ dinleyici soketi başarıyla başlatıldı. Port: 19000
+[19.05.2026 23:28:18] [KAYIT] Yeni anonim kullanıcı kayıt oldu: Can
+[19.05.2026 23:28:20] [GİRİŞ] Anonim kullanıcı giriş yaptı: Can
+[19.05.2026 23:28:43] [GÖNDERİ] Anonim gönderi paylaşıldı (Kat: Psikolojik Destek): cocuğuma zarar verme isteği neden oluyor
+[19.05.2026 23:28:43] [AĞ YAYIN] Gönderi paketi yerel ağa (Wi-Fi) yayınlandı. Tip: NEW_POST
+[19.05.2026 23:28:54] [AĞ SENKRON] Wi-Fi üzerinden yeni anonim yorum alındı ve veritabanına işlendi (Rumuz: mustafa)
+[19.05.2026 23:29:03] [AĞ SENKRON] Wi-Fi üzerinden yeni anonim yorum alındı ve veritabanına işlendi (Rumuz: mustafa)
+[19.05.2026 23:29:15] [AĞ SENKRON] Wi-Fi üzerinden yeni anonim yorum alındı ve veritabanına işlendi (Rumuz: mustafa)
+[19.05.2026 23:29:45] [ÇIKIŞ] Anonim kullanıcı çıkış yaptı: Can
+[19.05.2026 23:39:55] [SİSTEM] Lohusalık Anonim Yardımlaşma Platformu başarıyla başlatıldı.
+[19.05.2026 23:39:55] [SİSTEM] Yerel Wi-Fi/Ağ dinleyici soketi başarıyla başlatıldı. Port: 19000
+[19.05.2026 23:45:24] [SİSTEM] Lohusalık Anonim Yardımlaşma Platformu başarıyla başlatıldı.
+[19.05.2026 23:45:24] [HATA] Wi-Fi dinleyicisi başlatılamadı (Büyük ihtimalle başka bir uygulama veya sekme bu portu kullanıyor): Normal olarak her yuva adresi (iletişim kuralı/ağ adresi/bağlantı noktası) için yalnızca bir kullanıma izin veriliyor
+[19.05.2026 23:45:40] [KAYIT] Yeni anonim kullanıcı kayıt oldu: Papatya
+[19.05.2026 23:45:41] [GİRİŞ] Anonim kullanıcı giriş yaptı: Papatya
+[19.05.2026 23:45:48] [ŞİKAYET] Gönderi bildirildi. ID: cae1c05f-56d0-4961-872d-c3ba2bf787c5, Bildiren: Papatya
+[19.05.2026 23:45:48] [AĞ YAYIN] Gönderi paketi yerel ağa (Wi-Fi) ve harici eşlere yayınlandı. Tip: REPORT_POST
+[19.05.2026 23:45:48] [AĞ SENKRON] Şikayet eşleşmesi alındı. Gönderi ID: cae1c05f-56d0-4961-872d-c3ba2bf787c5, Bildiren: Papatya
+[19.05.2026 23:45:48] [WIFI HATA] Gelen veri paketi işlenirken hata oluştu: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+[2026-05-19 23:48:00] [S�STEM] 'Can' isimli kullan�c�n�n payla�t��� g�nderi ve alt�ndaki uygunsuz yorumlar moderat�r/sistem taraf�ndan veritaban�ndan kal�c� olarak silindi.
+[19.05.2026 23:48:25] [SİSTEM] Lohusalık Anonim Yardımlaşma Platformu başarıyla başlatıldı.
+[19.05.2026 23:48:25] [SİSTEM] Yerel Wi-Fi/Ağ dinleyici soketi başarıyla başlatıldı. Port: 19000
+[19.05.2026 23:49:45] [SİSTEM] Lohusalık Anonim Yardımlaşma Platformu başarıyla başlatıldı.
+[19.05.2026 23:49:45] [SİSTEM] Yerel Wi-Fi/Ağ dinleyici soketi başarıyla başlatıldı. Port: 19000
+[19.05.2026 23:49:55] [KAYIT] Yeni anonim kullanıcı kayıt oldu: Cann
+[19.05.2026 23:49:57] [GİRİŞ] Anonim kullanıcı giriş yaptı: Cann
+[19.05.2026 23:50:28] [GÖNDERİ] Anonim gönderi paylaşıldı (Kat: Psikolojik Destek): cocumu nasıl iyi büyütürüm
+[19.05.2026 23:50:28] [AĞ YAYIN] Gönderi paketi yerel ağa (Wi-Fi) ve harici eşlere yayınlandı. Tip: NEW_POST
+[19.05.2026 23:50:47] [AĞ SENKRON] Wi-Fi üzerinden yeni anonim yorum alındı ve veritabanına işlendi (Rumuz: mustafa)
+[19.05.2026 23:51:06] [AĞ SENKRON] Wi-Fi üzerinden yeni anonim yorum alındı ve veritabanına işlendi (Rumuz: mustafa)
+[19.05.2026 23:51:25] [ÇIKIŞ] Anonim kullanıcı çıkış yaptı: Cann
